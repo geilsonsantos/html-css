@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+header h1{
+    background-color: yellow;
+    color: darkmagenta;
+}
+
+h1{
+    background-color: greenyellow;
+    color: blue;
+}
+
+h2{
+
+    color: red;
+}
+
+p{
+    color: white;
+    text-align: justify;
+}
+
+ul p{
+    text-align: center;
+}
